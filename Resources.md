@@ -56,7 +56,8 @@
 - https://editor.isf.video/
 - https://github.com/patriciogonzalezvivo/glslEditor
 
-## Other
+## Other / To dig / To Sort
 
+- https://alain.xyz/blog/a-review-of-shader-languages
 - http://www.shader1weekcompo.org/
 - https://docs.google.com/presentation/d/1Nm2GEnHW0ycDbRgxYkvq-7SUKAxni0CoDMadI3NUbHI/edit#slide=id.g15d7c633a22_1_0
