@@ -59,3 +59,4 @@
 ## Other
 
 - http://www.shader1weekcompo.org/
+- https://docs.google.com/presentation/d/1Nm2GEnHW0ycDbRgxYkvq-7SUKAxni0CoDMadI3NUbHI/edit#slide=id.g15d7c633a22_1_0
