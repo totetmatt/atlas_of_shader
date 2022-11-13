@@ -36,6 +36,14 @@ float opRep( in vec3 p, in vec3 c, in sdf3d primitive )
     return primitive( q );
 }
 ```
+Triangle sin repetiton
+```
+vec3 p = asin(sin(p));
+
+// or as explain by wrighter
+
+vec3 p = abs(fract(p)-.5)*4.-1.;
+```
 
 ## Finite
 

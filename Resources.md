@@ -56,11 +56,12 @@
 - https://editor.isf.video/
 - https://github.com/patriciogonzalezvivo/glslEditor
 
-## Other
+## Other / To dig / To Sort
 
+- https://alain.xyz/blog/a-review-of-shader-languages
 - http://www.shader1weekcompo.org/
 
-To Start
+## To Start
 - [https://www.twitch.tv/flopine](https://www.twitch.tv/flopine "https://www.twitch.tv/flopine")
 - [https://www.twitch.tv/evvvvil_](https://www.twitch.tv/evvvvil_ "https://www.twitch.tv/evvvvil_") 
 - [https://www.twitch.tv/nusan_fx](https://www.twitch.tv/nusan_fx "https://www.twitch.tv/nusan_fx") 
@@ -72,3 +73,5 @@ To Start
 - [https://github.com/psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days "https://github.com/psenough/teach_yourself_demoscene_in_14_days") 
 - [https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg](https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg "https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg")
 - [https://livecode.demozoo.org](https://livecode.demozoo.org)
+- https://docs.google.com/presentation/d/1Nm2GEnHW0ycDbRgxYkvq-7SUKAxni0CoDMadI3NUbHI/edit#slide=id.g15d7c633a22_1_0 (JP)
+
