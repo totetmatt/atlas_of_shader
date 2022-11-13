@@ -59,3 +59,16 @@
 ## Other
 
 - http://www.shader1weekcompo.org/
+
+To Start
+- [https://www.twitch.tv/flopine](https://www.twitch.tv/flopine "https://www.twitch.tv/flopine")
+- [https://www.twitch.tv/evvvvil_](https://www.twitch.tv/evvvvil_ "https://www.twitch.tv/evvvvil_") 
+- [https://www.twitch.tv/nusan_fx](https://www.twitch.tv/nusan_fx "https://www.twitch.tv/nusan_fx") 
+- [https://www.twitch.tv/rimina_](https://www.twitch.tv/rimina_ "https://www.twitch.tv/rimina_") 
+- [https://www.youtube.com/c/InigoQuilez](https://www.youtube.com/c/InigoQuilez "https://www.youtube.com/c/InigoQuilez") 
+- [https://thebookofshaders.com/](https://thebookofshaders.com/ "https://thebookofshaders.com/") 
+- [https://github.com/alkama/BonzomaticServer/](https://github.com/alkama/BonzomaticServer/ "https://github.com/alkama/BonzomaticServer/") 
+- [https://github.com/TheNuSan/Bonzomatic](https://github.com/TheNuSan/Bonzomatic "https://github.com/TheNuSan/Bonzomatic") 
+- [https://github.com/psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days "https://github.com/psenough/teach_yourself_demoscene_in_14_days") 
+- [https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg](https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg "https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg")
+- [https://livecode.demozoo.org](https://livecode.demozoo.org)
