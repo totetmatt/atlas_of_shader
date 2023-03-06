@@ -24,6 +24,7 @@
 - http://blog.hvidtfeldts.net/index.php/2011/08/distance-estimated-3d-fractals-iii-folding-space/
 - http://adrianb.io/2016/10/01/raymarching.html
 - https://si-ashbery.medium.com/raymarching-3cdf86c637ba
+- https://jbaker.graphics/writings/DEC.html
 
 ### Video
 
