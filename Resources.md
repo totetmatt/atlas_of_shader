@@ -41,6 +41,7 @@
 - [Shadertoy](https://shadertoy.com)
 - [Bonzomatic (Original)](https://github.com/Gargaj/Bonzomatic)
 - [Bonzomatic (Network Fork)](https://github.com/TheNuSan/Bonzomatic)
+- [LiCo](https://lico-shader.net/)
 - https://stephaneginier.com/archive/editSDF/
 - https://sdf-ui.firebaseapp.com/
 - https://cables.gl/
